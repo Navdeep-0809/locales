@@ -1,5 +1,8 @@
-.bundle
-*.swp
-.ruby-version
-.env
-spec/sheldon/travis.json
+Ignore all .log files
+.log
+
+
+Ignore the lib directory
+emp/
+ 
+
